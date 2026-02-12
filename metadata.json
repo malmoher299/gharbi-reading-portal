@@ -1,0 +1,8 @@
+{
+  "name": "مسابقة علي سيرة كتاب - حياة كريمة",
+  "description": "منصة الاختبارات الرسمية لمؤسسة حياة كريمة - مكتب الغربية.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
